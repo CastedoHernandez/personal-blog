@@ -3,6 +3,8 @@ author: Carlos Castedo
 pubDatetime: 2025-08-29T22:25:52.737Z
 modDatetime: 2025-08-29T22:25:46.734Z
 title: Init of porfolio and blog
+featured: true
+draft: false
 tags:
   - porfolio
   - blog
