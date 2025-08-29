@@ -2,7 +2,6 @@
 author: Carlos Castedo
 pubDatetime: 2025-08-27T22:25:52.737Z
 title: Init of porfolio and blog
-slug: init-post-porfolio-blog
 featured: true
 draft: false
 tags:
@@ -13,7 +12,6 @@ description: First step in the process to build a porfolio with a blog together
 
 
 Now I want to create a porfolio page that allow me to show what are the things that I am doing but more important will be to track the work that I am doing during the years. And have a nice view on my thought when I create different random things.
-
 
 In this case is the portfolio plus a blog. I am not that focus in the frontend development so I ask friend chat gpt to tell me what is the different alternatives. And the results is:
 
